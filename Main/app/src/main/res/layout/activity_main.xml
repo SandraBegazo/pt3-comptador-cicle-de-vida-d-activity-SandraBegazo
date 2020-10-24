@@ -19,7 +19,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_end="45dp" />
+        app:layout_constraintGuide_end="31dp" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline4"
@@ -82,7 +82,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_end="138dp" />
+        app:layout_constraintGuide_end="121dp" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline13"
@@ -203,7 +203,7 @@
         android:layout_height="45dp"
         android:hint="@string/on_create_cont"
         android:textAlignment="center"
-        android:textColor="@android:color/darker_gray"
+        android:textColor="@android:color/background_light"
         android:textColorHint="@color/colorPrimaryDark"
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/guideline5"
@@ -219,6 +219,7 @@
         android:layout_height="45dp"
         android:hint="@string/on_start_cont"
         android:textAlignment="center"
+        android:textColor="@android:color/background_light"
         android:textColorHint="@color/colorPrimaryDark"
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/guideline6"
@@ -233,6 +234,7 @@
         android:layout_height="45dp"
         android:hint="@string/on_restart_cont"
         android:textAlignment="center"
+        android:textColor="@android:color/background_light"
         android:textColorHint="@color/colorPrimaryDark"
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/guideline7"
@@ -248,6 +250,7 @@
         android:layout_height="45dp"
         android:hint="@string/on_resume_cont"
         android:textAlignment="center"
+        android:textColor="@android:color/background_light"
         android:textColorHint="@color/colorPrimaryDark"
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/guideline8"
@@ -262,6 +265,7 @@
         android:layout_height="45dp"
         android:hint="@string/on_pause_cont"
         android:textAlignment="center"
+        android:textColor="@android:color/background_light"
         android:textColorHint="@color/colorPrimary"
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/guideline9"
@@ -277,6 +281,7 @@
         android:layout_height="45dp"
         android:hint="@string/on_stop_cont"
         android:textAlignment="center"
+        android:textColor="@android:color/background_light"
         android:textColorHint="@color/colorPrimary"
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/guideline10"
@@ -292,6 +297,7 @@
         android:layout_height="45dp"
         android:hint="@string/on_destroy_cont"
         android:textAlignment="center"
+        android:textColor="@android:color/background_light"
         android:textColorHint="@color/colorPrimary"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"

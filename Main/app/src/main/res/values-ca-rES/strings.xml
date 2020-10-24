@@ -16,4 +16,11 @@
     <string name="on_destroy">Destruit</string>
     <string name="on_resume">En resum</string>
     <string name="title">Comptador Activitats</string>
+    <string name="ToastOnCreate">En creació</string>
+    <string name="ToastOnStart">En inici</string>
+    <string name="ToastOnRestart">En reinici</string>
+    <string name="ToastOnResume">En resum</string>
+    <string name="ToastOnPause">En pausa</string>
+    <string name="ToastOnStop">Detingut</string>
+    <string name="ToastOnDestroy">Destruit</string>
 </resources>

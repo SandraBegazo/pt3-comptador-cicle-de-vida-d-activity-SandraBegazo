@@ -16,4 +16,11 @@
     <string name="on_stop_cont">Conteo</string>
     <string name="on_destroy_cont">Conteo</string>
     <string name="title">Contador de Actividades</string>
+    <string name="ToastOnCreate">En creación</string>
+    <string name="ToastOnStart">Iniciando</string>
+    <string name="ToastOnRestart">Reiniciando</string>
+    <string name="ToastOnResume">Resumen</string>
+    <string name="ToastOnPause">En pausa</string>
+    <string name="ToastOnStop">Detenido</string>
+    <string name="ToastOnDestroy">Finalizado</string>
 </resources>

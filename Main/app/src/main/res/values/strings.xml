@@ -15,5 +15,12 @@
     <string name="on_destroy">On Destroy</string>
     <string name="on_destroy_cont">Conteo</string>
     <string name="title">Contador Activity</string>
+    <string name="ToastOnCreate">OnCreate</string>
+    <string name="ToastOnStart">OnStart</string>
+    <string name="ToastOnRestart">OnRestart</string>
+    <string name="ToastOnResume">OnResume</string>
+    <string name="ToastOnPause">OnPause</string>
+    <string name="ToastOnStop">OnStop</string>
+    <string name="ToastOnDestroy">OnDestroy</string>
 
 </resources>
