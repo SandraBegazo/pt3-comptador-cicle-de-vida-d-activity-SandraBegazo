@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Principal</string>
+    <string name="on_create">En creació</string>
+    <string name="on_create_cont">Comptatge</string>
+    <string name="on_start">En inici</string>
+    <string name="on_start_cont">Comptatge</string>
+    <string name="on_restart_cont">Comptatge</string>
+    <string name="on_resume_cont">Comptatge</string>
+    <string name="on_pause_cont">Comptatge</string>
+    <string name="on_stop_cont">Comptatge</string>
+    <string name="on_destroy_cont">Comptatge</string>
+    <string name="on_restart">En reinici</string>
+    <string name="on_pause">En pausa</string>
+    <string name="on_stop">Detingut</string>
+    <string name="on_destroy">Destruit</string>
+    <string name="on_resume">En resum</string>
+    <string name="title">Comptador Activitats</string>
+</resources>

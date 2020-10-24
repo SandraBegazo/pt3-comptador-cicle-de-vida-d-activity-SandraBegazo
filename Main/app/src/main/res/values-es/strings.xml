@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Principal</string>
+    <string name="on_create">En creación</string>
+    <string name="on_create_cont">Conteo</string>
+    <string name="on_start">Iniciando</string>
+    <string name="on_restart">Reiniciando</string>
+    <string name="on_resume">Resumen</string>
+    <string name="on_pause">Pausa</string>
+    <string name="on_stop">Detenido</string>
+    <string name="on_destroy">Finalizado</string>
+    <string name="on_start_cont">Conteo</string>
+    <string name="on_restart_cont">Conteo</string>
+    <string name="on_resume_cont">Conteo</string>
+    <string name="on_pause_cont">Conteo</string>
+    <string name="on_stop_cont">Conteo</string>
+    <string name="on_destroy_cont">Conteo</string>
+    <string name="title">Contador de Actividades</string>
+</resources>
