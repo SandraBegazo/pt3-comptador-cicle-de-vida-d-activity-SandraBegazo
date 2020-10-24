@@ -18,9 +18,6 @@ public class MainActivity extends AppCompatActivity {
     TextView on_stop_contj;
     TextView on_destroy_contj;
 
-    int contador;
-
-
 
 
     @Override
@@ -43,8 +40,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onStart(){
         super.onStart();
         Toast.makeText(this, "OnStart", Toast.LENGTH_SHORT).show();
-
     }
+
      @Override
      protected void onRestart() {
          super.onRestart();
@@ -54,24 +51,24 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
-
+        Toast.makeText(this, "OnResume", Toast.LENGTH_SHORT).show();
     }
 
     @Override
     protected void onPause() {
         super.onPause();
-
+        Toast.makeText(this, "OnPause", Toast.LENGTH_SHORT).show();
     }
 
     @Override
     protected void onStop() {
         super.onStop();
-
+        Toast.makeText(this, "OnStop", Toast.LENGTH_SHORT).show();
     }
 
     @Override
     protected void onDestroy() {
         super.onDestroy();
-
+        Toast.makeText(this, "OnDestroy", Toast.LENGTH_SHORT).show();
     }
 }
