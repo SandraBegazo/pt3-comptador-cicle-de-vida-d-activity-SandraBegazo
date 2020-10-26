@@ -40,17 +40,14 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(getApplicationContext(),getResources().getString(R.string.ToastOnCreate), Toast.LENGTH_SHORT).show();
 
-
         contadorCreate=contadorCreate+1;
         on_create_contj.setText(String.valueOf(contadorCreate));
-
 
     }
     @Override
     protected void onStart(){
         super.onStart();
         Toast.makeText(getApplicationContext(),getResources().getString(R.string.ToastOnStart), Toast.LENGTH_SHORT).show();
-
 
         contadorStart=contadorStart+1;
         on_start_contj.setText(String.valueOf(contadorStart));
